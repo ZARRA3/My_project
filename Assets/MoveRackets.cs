@@ -5,7 +5,7 @@ using UnityEngine;
 public class MoveRackets : MonoBehaviour
 {
     //This is the speed of the racket mouvement
-    public float speed = 30;
+    public float speed = 5;
     public string Axis;
     void FixedUpdate ()
     {
